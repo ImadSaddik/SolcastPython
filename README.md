@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 ## API Key
 
-Make sure to copy the API Key from the Solcast platform and add paste in the `.env` file, like this
+Make sure to copy the API Key from the Solcast platform and add paste it in the `.env` file, like this
 
 ```python
 SOLCAST_API_KEY=your_api_key
